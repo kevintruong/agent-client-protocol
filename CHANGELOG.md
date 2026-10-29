@@ -2,6 +2,17 @@
 
 ## [Unreleased]
 
+## [1.13.1](https://github.com/agentclientprotocol/agent-client-protocol/compare/v1.13.0...v1.13.1) - 2026-10-29
+
+### Fixed
+
+- *(schema)* mark SessionInfo.additionalDirectories as default-on-null ([#2571](https://github.com/agentclientprotocol/agent-client-protocol/pull/2571))
+
+### Other
+
+- *(schema)* define declining a permission request and unknown option IDs ([#2582](https://github.com/agentclientprotocol/agent-client-protocol/pull/2582))
+- *(schema)* let cancelled cover stops the user chose through the Agent ([#2576](https://github.com/agentclientprotocol/agent-client-protocol/pull/2576))
+
 ## [1.13.0](https://github.com/agentclientprotocol/agent-client-protocol/compare/v1.12.0...v1.13.0) - 2026-10-27
 
 ### Added

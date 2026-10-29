@@ -7,6 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.0.0-alpha.11](https://github.com/agentclientprotocol/agent-client-protocol/compare/schema-v2.0.0-alpha.10...schema-v2.0.0-alpha.11) - 2026-10-29
+
+### Fixed
+
+- *(schema)* mark SessionInfo.additionalDirectories as default-on-null ([#2571](https://github.com/agentclientprotocol/agent-client-protocol/pull/2571))
+
+### Other
+
+- *(schema)* define declining a permission request and unknown option IDs ([#2582](https://github.com/agentclientprotocol/agent-client-protocol/pull/2582))
+- *(schema)* let cancelled cover stops the user chose through the Agent ([#2576](https://github.com/agentclientprotocol/agent-client-protocol/pull/2576))
+
 ## [2.0.0-alpha.10](https://github.com/agentclientprotocol/agent-client-protocol/compare/schema-v2.0.0-alpha.9...schema-v2.0.0-alpha.10) - 2026-10-27
 
 ### Added
